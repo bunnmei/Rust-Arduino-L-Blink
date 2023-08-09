@@ -18,7 +18,7 @@ fn main() -> ! {
      */
 
     let mut led = pins.d5.into_output_high();
-    let mut stepper = pins.d7.into_output();
+    // let mut stepper = pins.d7.into_output();
 
     loop {
         led.set_high();
@@ -26,5 +26,5 @@ fn main() -> ! {
         led.set_low();
         arduino_hal::delay_ms(500);
     }
-    
+
 }

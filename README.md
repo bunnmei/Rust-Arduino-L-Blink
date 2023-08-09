@@ -1,6 +1,18 @@
 arduino
 =======
 
+使ったArduino Nano
+[Aliexpress](https://ja.aliexpress.com/item/4000587268145.html?spm=a2g0o.order_list.order_list_main.270.5375585aDJxWBG&gatewayAdapt=glo2jpn)
+
+atmega328pではなくatmega328pbがついていた。
+
+[違い](https://avr.jp/user/AN/PDF/AT15007.pdf)
+
+セットアップ参考
+[Youtube](youtube.com/watch?v=ZPSqhb4KKNc)
+[GitHub](https://github.com/Rahix/avr-hal/tree/main/examples)
+
+
 Rust project for the _Arduino Nano_.
 
 ## Build Instructions
