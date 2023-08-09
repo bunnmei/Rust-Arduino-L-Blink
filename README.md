@@ -1,15 +1,19 @@
 arduino
 =======
 
-使ったArduino Nano
+使った Arduino Nano
+
 [Aliexpress](https://ja.aliexpress.com/item/4000587268145.html?spm=a2g0o.order_list.order_list_main.270.5375585aDJxWBG&gatewayAdapt=glo2jpn)
 
 atmega328pではなくatmega328pbがついていた。
+![Arduino-nano-chip](https://user-images.githubusercontent.com/138425329/259375550-dea075be-47e1-45c2-b5b8-4c370adcd226.jpg)
 
 [違い](https://avr.jp/user/AN/PDF/AT15007.pdf)
 
 セットアップ参考
+
 [Youtube](youtube.com/watch?v=ZPSqhb4KKNc)
+
 [GitHub](https://github.com/Rahix/avr-hal/tree/main/examples)
 
 
