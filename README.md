@@ -4,6 +4,7 @@ arduino
 使った Arduino Nano
 
 [Aliexpress](https://ja.aliexpress.com/item/4000587268145.html?spm=a2g0o.order_list.order_list_main.270.5375585aDJxWBG&gatewayAdapt=glo2jpn) の Type-C Nano
+
 atmega328pではなくatmega328pbがついていた。
 
 ![Arduino-nano-chip](https://user-images.githubusercontent.com/138425329/259375550-dea075be-47e1-45c2-b5b8-4c370adcd226.jpg)
